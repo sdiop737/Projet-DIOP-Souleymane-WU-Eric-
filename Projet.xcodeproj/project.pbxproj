@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F8430E4527BA808200728430 /* ProjetApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8430E4427BA808200728430 /* ProjetApp.swift */; };
+		F8430E4527BA808200728430 /*  Projet .swift in Sources */ = {isa = PBXBuildFile; fileRef = F8430E4427BA808200728430 /*  Projet .swift */; };
 		F8430E4727BA808200728430 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8430E4627BA808200728430 /* ContentView.swift */; };
 		F8430E4927BA808300728430 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8430E4827BA808300728430 /* Assets.xcassets */; };
 		F8430E4C27BA808300728430 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8430E4B27BA808300728430 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		F8430E4127BA808200728430 /* Projet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Projet.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F8430E4427BA808200728430 /* ProjetApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjetApp.swift; sourceTree = "<group>"; };
+		F8430E4427BA808200728430 /*  Projet .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Projet .swift"; sourceTree = "<group>"; };
 		F8430E4627BA808200728430 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F8430E4827BA808300728430 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8430E4B27BA808300728430 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		F8430E4327BA808200728430 /* Projet */ = {
 			isa = PBXGroup;
 			children = (
-				F8430E4427BA808200728430 /* ProjetApp.swift */,
+				F8430E4427BA808200728430 /*  Projet .swift */,
 				F8430E4627BA808200728430 /* ContentView.swift */,
 				F8430E4827BA808300728430 /* Assets.xcassets */,
 				F8430E4A27BA808300728430 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8430E4727BA808200728430 /* ContentView.swift in Sources */,
-				F8430E4527BA808200728430 /* ProjetApp.swift in Sources */,
+				F8430E4527BA808200728430 /*  Projet .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

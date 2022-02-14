@@ -2,7 +2,7 @@
 //  ProjetApp.swift
 //  Projet
 //
-//  Created by goldorak on 14/02/2022.
+//  Created by goldorak (Souleymane DIOP & Eric WU) on 14/02/2022.
 //
 
 import SwiftUI
